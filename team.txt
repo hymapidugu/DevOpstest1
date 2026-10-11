@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Hello Team, This is Hyma's file.how are you from two.
+=======
+Hello Team, This is Hyma's file.
+
+to see teams files git the the given link.
+>>>>>>> 7fab845 (dev1 changes)
